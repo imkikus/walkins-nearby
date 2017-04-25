@@ -2,6 +2,7 @@
   "app_name": "walkins-aroundme",
   "mobile_app_name": "walkins-aroundme",
   "version": "1.0",
+  "app_title": "Walkins AroundMe",
   "app_color": "#2c9984",
   "bg_color": "#FFFFFF"
 }
