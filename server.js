@@ -10,7 +10,7 @@ app = express();
 var port = process.env.PORT || 5000;
 app.get('*', function(req, res) {
   // res.sendFile('index.html' , { root : __dirname});
-  res.sendFile( __dirname + "index.html" );
+  res.sendFile("index.html");
 });
 app.listen(port);
 console.log('server started ' + port);
